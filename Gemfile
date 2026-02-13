@@ -111,7 +111,7 @@ gem 'activeadmin', '1.1.0'
 gem 'devise', '4.4.3'
 
 # Simple wrapper for the GitHub API
-gem 'octokit', require: false
+gem 'octokit', '>= 4.23.0', require: false
 
 # Cross-language UserAgent classifier library, ruby implementation
 gem 'woothee'
