@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@rails/webpacker": "^3.0.1",
+    "@rails/webpacker": "^5.2.2",
     "algoliasearch": "^3.24.9",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.25.0",
@@ -27,10 +27,10 @@
     "js-sequence-diagrams": "https://github.com/adambutler/js-sequence-diagrams.git#modularity",
     "js-yaml": "^3.9.0",
     "lodash": "^4.17.4",
-    "node-sass": "^4.5.3",
+    "node-sass": "^9.0.0",
     "path-complete-extname": "^0.1.0",
     "postcss-cssnext": "^3.0.2",
-    "postcss-loader": "^2.0.6",
+    "postcss-loader": "^5.0.0",
     "postcss-smart-import": "^0.7.5",
     "precss": "^2.0.0",
     "prop-types": "^15.5.10",
@@ -42,8 +42,8 @@
     "resolve-url-loader": "^2.1.0",
     "sass-loader": "^6.0.6",
     "sha1-file": "^1.0.0",
-    "style-loader": "^0.18.2",
-    "webpack": "^3.4.1",
+    "style-loader": "^3.0.0",
+    "webpack": "^5.0.0",
     "webpack-manifest-plugin": "^1.2.1",
     "webpack-merge": "^4.1.0",
     "whatwg-fetch": "^2.0.3"
